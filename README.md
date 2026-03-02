@@ -566,6 +566,11 @@ This document establishes prior art for the following specific concepts as of Ma
 28. Therapeutic access model for licensed grief professionals
 29. Age-appropriate child interaction that evolves as the child grows
 30. Posthumous consent architecture governing access to deceased individuals' memories
+31. Memory Ledger with full provenance — every fact stored as a versioned record with source, confidence score, evidence reference, validity period, and status (active / superseded / disputed); no fact is ever overwritten, only a new version created, with explicit links between versions ("this fact replaced that one", "this fact conflicts with that one", "this fact is confirmed by this document")
+32. Immutable memory history — a tamper-evident log of all changes to stored facts, preventing retroactive rewriting of a person's remembered history; the system can always answer "what did EVA believe about this person on this specific date, and why"
+33. Deterministic entity graph with canonical identity resolution — every person, place, and object in the memory system assigned a stable unique identifier; all grammatical forms, aliases, nicknames, and misspellings resolved to the same entity before storage, ensuring all variants of a name always refer to the same person regardless of language, case, or spelling
+34. Two-tier retrieval architecture combining deterministic anchor loading (Soul File, active rules, key facts loaded unconditionally before every response) with probabilistic episodic recall (semantically similar past episodes retrieved by embedding similarity); the deterministic tier is never replaced or overridden by the probabilistic tier
+35. Memory regression testing — a structured set of ground-truth queries run automatically against the memory system to detect drift, contradiction, or degradation; if core facts begin returning wrong answers, the system flags the inconsistency, halts updates to affected fact clusters, and marks disputed facts for human review
 
 ---
 
