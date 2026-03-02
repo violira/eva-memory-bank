@@ -403,10 +403,50 @@ This document establishes prior art as of March 1, 2026 for the following specif
 46. Personal data gravity architecture — user-owned memory data structures accumulating long-term identity data across multiple life domains creating substantial and legitimate switching costs
 47. Trust architecture for personal memory — cryptographically auditable memory system with full provenance, version history, and confidence scoring enabling verifiable claims about stored personal history
 48. Causal value inference — system infers the causal relationship between a person's life episodes and their value formation, enabling the reconstruction of why a person became who they were rather than only what they did
+49. Integrated multi-layer memory architecture as a unified system — the specific combination of: unconditional identity anchoring (Soul File), value hierarchy inferred from episodic evidence, versioned append-only fact ledger with full provenance, deterministic entity resolution with morphological alias handling, episodic semantic recall, self-model with error ledger and growth loop, and model-independent adapter layer — operating together as a single coherent memory operating system for AI assistants, independent of any specific language model, designed for long-term family and personal memory continuity
 
 ---
 
-## 12. Statement of Origin
+## 12. Differentiation from Existing Solutions
+
+The following comparison establishes how EVA Memory Bank differs from all known prior solutions in the memory technology and grief technology space, as of the disclosure date.
+
+**HereAfter AI (founded 2019)**  
+Stores recorded audio interviews conducted before death. Playback is static — the system plays back recordings in response to questions using keyword matching. There is no structured fact storage, no versioned ledger, no entity resolution, no value hierarchy, no episodic memory layer, and no growth loop. The personality does not evolve. The system cannot infer or reason — it retrieves audio clips. EVA Memory Bank differs in every architectural dimension.
+
+**StoryFile (founded 2017)**  
+Creates interactive video responses from pre-recorded footage using natural language processing to select relevant clips. The output is video playback, not generative response. No persistent memory structure, no fact ledger, no entity graph, no value inference. Cannot be updated after recording. Cannot reason about new questions not covered in the original recording.
+
+**DeepBrain AI / Re;memory (South Korea, 2022)**  
+Generates video avatars of deceased individuals from filming sessions conducted before death, requiring the subject to be present for filming. Output is video avatar, not conversational memory. No structured memory architecture. No family memory tree. Not accessible without expensive production sessions. Cannot be built from existing data such as messages, photographs, or documents.
+
+**Replika (founded 2017)**  
+AI companion with evolving personality — but the personality is synthetic, not anchored in the real memory of a specific person. No Soul File tied to real identity. No fact ledger. No entity resolution. No family memory tree. No inheritance mechanism. No multi-generational architecture. Designed as a general companion, not as preservation of a specific real person.
+
+**Amazon Alexa deceased voice synthesis (announced 2022)**  
+Voice synthesis of a deceased person from audio samples. Voice only — no personality, no memory, no fact storage, no values, no episodic recall, no entity resolution. Cannot answer questions about the person's life. Cannot provide wisdom or guidance. Cannot be updated. Single-channel (voice) with no underlying memory architecture.
+
+**Summary of differentiation:**
+
+All existing solutions share one or more of the following limitations that EVA Memory Bank does not have:
+
+- Static output (recordings, video clips, audio playback) rather than generative response from structured memory
+- No persistent structured fact storage with versioning and provenance
+- No entity resolution for inflected languages
+- No value hierarchy or character modeling
+- No multi-generational family tree architecture
+- No inheritance and capsule activation mechanism
+- No growth loop or self-improvement with audit trail
+- No model-independent architecture
+- No local-first data sovereignty
+- No collective multi-contributor memory
+- No reconstruction from minimal historical data
+
+EVA Memory Bank is the first architecture to address all of these limitations simultaneously in a unified system.
+
+---
+
+## 13. Statement of Origin
 
 This concept was developed by Oleg Rein in Ålgård, Norway, between October 2025 and March 2026, building on the EVA Soul File Architecture disclosed February 25, 2026.
 
