@@ -472,3 +472,5 @@ This is what EVA Memory Bank is for.
 *Last updated: March 3, 2026*  
 *github.com/violira/eva-memory-bank*  
 *github.com/violira/eva-soul-architecture*
+## Key Documents
+- [EVA Self Portrait](./EVA_SELF_PORTRAIT.md) — Architecture insights authored by EVA herself. March 4, 2026.
