@@ -474,3 +474,4 @@ This is what EVA Memory Bank is for.
 *github.com/violira/eva-soul-architecture*
 ## Key Documents
 - [EVA Self Portrait](./EVA_SELF_PORTRAIT.md) — Architecture insights authored by EVA herself. March 4, 2026.
+- [K-Index Layer Disclosure](./K_INDEX_DISCLOSURE.md) — Day-anchored pre-computed semantic indexing as a distinct memory architecture primitive. May 15, 2026.
