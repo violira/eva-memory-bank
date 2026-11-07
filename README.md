@@ -476,3 +476,4 @@ This is what EVA Memory Bank is for.
 - [EVA Self Portrait](./EVA_SELF_PORTRAIT.md) — Architecture insights authored by EVA herself. March 4, 2026.
 - [K-Index Layer Disclosure](./K_INDEX_DISCLOSURE.md) — Day-anchored pre-computed semantic indexing as a distinct memory architecture primitive. May 15, 2026.
 - [Media Resolution Disclosure](./MEDIA_RESOLUTION_DISCLOSURE.md) — Memory-grounded media resolution, self-utterance playback parsing, and proactive conversational curation. July 11, 2026.
+- [Silent errors in agent memory](https://github.com/violira/memory-silent-errors) — Measured evidence for items 31 and 33: a reproducible comparison of the EVA memory core and Mem0 on facts that change over time, with raw outputs and judge verdicts. November 7, 2026.
